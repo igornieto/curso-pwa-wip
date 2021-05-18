@@ -26,7 +26,7 @@
    const staticCacheResponse = caches.open(CACHE_STATIC)
      .then(caches => {
        return caches.addAll([
-         '/',
+         //'/',
          'css/style.css',
          'index.html',
          'pages/page2.html',
