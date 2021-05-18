@@ -3,7 +3,7 @@
   "name": "Cyclingnews, la actualidad ciclista",
   "description": "Cyclingnews, la actualidad ciclista",
   "start_url": "index.html",
-  "scope": "/",
+  "scope": "/curso-pwa-wip/",
   "background_color": "#00e8a0",
   "theme_color": "#00e8a0",
   "display": "fullscreen",
