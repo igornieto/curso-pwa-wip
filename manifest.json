@@ -5,8 +5,8 @@
   "start_url": "index.html",
   "background_color": "#00e8a0",
   "theme_color": "#00e8a0",
-  "display": "fullscreen",
-  "display_override": ["minimal-ui", "standalone", "browser"],
+  "display": "browser",
+  "display_override": ["minimal-ui", "standalone"],
   "orientation": "portrait",
   "icons": [
     {
